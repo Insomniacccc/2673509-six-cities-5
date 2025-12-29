@@ -1,0 +1,59 @@
+{
+  "api": {
+    "titles": [
+      "Однокомнатная квартира",
+      "Гараж",
+      "Два гаража"
+    ],
+    "descriptions": [
+      "Сдам квартиру студенту",
+      "Сдам гараж",
+      "Сдам 2 гаража"
+    ],
+    "previewImages": [
+      "previewImage1.jpg",
+      "previewImage2.jpg",
+      "previewImage3.jpg",
+      "previewImage4.jpg",
+      "previewImage5.jpg",
+      "previewImage6.jpg"
+    ],
+    "images": [
+      "image1.jpg",
+      "image2.jpg",
+      "image3.jpg",
+      "image4.jpg",
+      "image5.jpg",
+      "image6.jpg"
+    ],
+    "coordinates": {
+      "latitude": [
+        1.2345,
+        2.3456,
+        3.4567
+      ],
+      "longitude": [
+        4.5678,
+        5.6789,
+        6.7891
+      ]
+    },
+    "users": {
+      "usernames": [
+        "QwE",
+        "QWE2",
+        "QWE3"
+      ],
+      "avatars": [
+        "avatar1.jpg",
+        "avatar2.jpg",
+        "avatar3.jpg"
+      ],
+      "emails": [
+        "qwe3@email.local",
+        "qwe2@email.local",
+        "qwe@email.local"
+      ]
+    }
+  }
+}
